@@ -1,5 +1,20 @@
 # akulkeys v1.9
 
+## 📸 Interfaz del Sistema
+
+<table>
+  <tr>
+    <td><b>Acceso Biométrico</b></td>
+    <td><b>Bóveda Nivel Básico</b></td>
+    <td><b>Protocolo Apex (Militar)</b></td>
+  </tr>
+  <tr>
+    <td><img src="portada-.png" width="250"></td>
+    <td><img src="nivel basico-.png" width="250"></td>
+    <td><img src="panel.png" width="250"></td>
+  </tr>
+</table>
+
 **akulkeys** es una terminal de seguridad minimalista diseñada para la gestión de activos digitales bajo una filosofía de "Privacidad por Diseño". Esta herramienta diferencia claramente el uso cotidiano de la gestión de infraestructuras críticas mediante su sistema de doble nivel.
 
 ## 🛠️ Especificaciones de la Versión 1.9
@@ -27,4 +42,5 @@
 ## 📈 Próximos Pasos (Roadmap)
 - Implementación de persistencia local mediante base de datos cifrada.
 - Integración nativa con LocalAuth (Huella/FaceID real).
+
 - Sistema de "Doble Fondo" para coacción.
